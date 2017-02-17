@@ -1,0 +1,16 @@
+{
+  "name": "webpack-unexpected-char-bug-reproduced",
+  "version": "1.0.0",
+  "scripts": {
+    "reproduce": "webpack"
+  },
+  "author": "John Rood",
+  "devDependencies": {
+    "awesome-typescript-loader": "3.0.4",
+    "css-loader": "0.26.1",
+    "extract-text-webpack-plugin": "2.0.0-rc.2",
+    "style-loader": "0.13.1",
+    "typescript": "2.1.6",
+    "webpack": "2.2.1"
+  }
+}
