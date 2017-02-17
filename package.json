@@ -1,5 +1,5 @@
 {
-  "name": "webpack-unexpected-char-bug-reproduced",
+  "name": "unexpected-char-bug-reproduced",
   "version": "1.0.0",
   "scripts": {
     "reproduce": "webpack"
